@@ -1,0 +1,52 @@
+body{
+  background-color: rgb(9, 59, 71);
+}
+.App {
+  margin-top: 300px;
+  margin-left: 600px;
+
+}
+.App-header {
+  display: flex;
+  border: 1px solid white;
+  width: 600px;
+  background-color: white;
+
+}
+
+.Name {
+  font-size: 36px;
+  font-weight: bold;
+
+}
+
+.Info {
+  margin-top: -24px;
+  width: 601px;
+  background-color: rgba(4, 12, 14, 0.198);
+  font-size: 24px;
+  color: white;
+  padding-bottom: 30px;
+  margin-left: 600px;
+  }
+  
+  .Text-info {
+    padding-left: 10px;
+
+  }
+  a {
+    font-size: 18px;
+    text-decoration: none;
+    padding: 10px;
+    margin: 5px;
+  }
+  .link {
+    color:white;
+    border: 1px solid rebeccapurple;
+    background-color: rebeccapurple;
+  }
+  .link2 {
+    border:1px solid rgb(9, 190, 93);
+    color:rgb(9, 190, 93);
+    
+  }
